@@ -6,7 +6,6 @@ This repository contains a Webpack setup tailored for HTML page development, inc
 - **Webpack** for bundling and optimizing assets
 - **Bootstrap** for responsive design and pre-built components
 - **SASS** for enhanced CSS with variables, nesting, and more
-- **Hot Module Replacement (HMR)** for rapid development
 
 ## Getting Started
 
